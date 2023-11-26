@@ -12,3 +12,10 @@
 ## modeling
     - found a simple model on stackoverflow for image to image
     - model first down scales and then up scales the image
+- Item 1
+  - Subitem 1.1
+  - Subitem 1.2
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
+
